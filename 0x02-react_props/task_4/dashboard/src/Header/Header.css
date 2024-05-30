@@ -1,0 +1,12 @@
+.App-header {
+    display: flex;
+    align-items: center;
+  }
+  
+  .App-header h1{
+    margin-left: 1rem;
+    font-weight: 700;
+    font-size: 3rem;
+    color: rgb(226, 70, 70);
+  }
+  

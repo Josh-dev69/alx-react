@@ -1,0 +1,18 @@
+.Notification {
+    border: 3px dotted rgb(226, 70, 70);
+    border-color: rgb(226, 70, 70);
+    padding: 0.3rem;
+    position: relative;
+}
+
+.Notification ul{
+    font-weight: bold;
+}
+.Notification ul li:not(:first-child){
+    color: rgb(226, 70, 70);
+}
+
+.Notification ul li:first-child{
+    color: rgb(48, 48, 179);
+}
+

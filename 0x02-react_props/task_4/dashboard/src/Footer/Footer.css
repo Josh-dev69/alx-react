@@ -1,0 +1,6 @@
+.App-footer {
+    height: 45vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+  }

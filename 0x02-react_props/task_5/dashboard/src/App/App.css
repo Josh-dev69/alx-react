@@ -1,0 +1,7 @@
+hr {
+  font-weight: 800;
+  height: 0.3rem; 
+  background-color: rgb(226, 70, 70);
+  outline: none;
+  border: none;
+}
